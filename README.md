@@ -1,80 +1,71 @@
-<h1 align="center">Hi there, I'm Denis 👋</h1>
+<h1 align="center">Hi there, I'm Denis Pikaev 👋</h1>
 
 <p align="center">
-  <b>Backend Developer</b> | <b>Tech Educator</b> | <b>AI Enthusiast</b>  
-  <br>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=00ADD8&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Backend-informational?style=flat&logo=server&color=purple"/>
-  <img src="https://img.shields.io/badge/Stack-FastAPI-informational?style=flat&logo=fastapi&color=009688"/>
-  <img src="https://img.shields.io/badge/Tools-Aiogram3-informational?style=flat&logo=telegram&color=26A5E4"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="40"/>
+</p>
+
+<p align="center">
+  <a href="https://t.me/dpikaev"><img src="https://img.shields.io/badge/Telegram-@dpikaev-2CA5E0?style=for-the-badge&logo=telegram" /></a>
+  <a href="mailto:denercoder@mail.ru"><img src="https://img.shields.io/badge/Email-denercoder@mail.ru-D14836?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
-## 💼 About Me
+### 👨‍💻 About Me
 
-I'm a Python backend developer with **2+ years of commercial experience** and **3+ years of teaching** in tech and programming.  
-I build scalable backend systems, Telegram bots, and integrate AI tools into modern applications.
-
-I've worked on a variety of projects, including:
-
-- 🪙 **Crypto wallet** for a custom coin (PyQt)
-- 📚 **Online educational platform** with progress tracking and backend APIs
-- 🤖 **AI-agent orchestration service** for automated tasks
-- 🥊 **Telegram bot for boxing judges**, with FSM, scoring automation, and admin tools
+- 💼 2+ years in commercial backend development
+- 📚 3+ years teaching programming and backend architecture
+- 🔬 Passionate about building smart systems and working with AI
+- 🎥 Also enjoy working in **Adobe Premiere Pro** & **After Effects**
+- 📖 Love reading books, watching good series, and gaming
 
 ---
 
-## 🚀 Tech Stack
+### 💼 Tech Stack
 
-### 🔧 Core Stack
+#### 🐍 Python Ecosystem
+![Python](https://img.shields.io/badge/-Python%203.x-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-E1322E?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Asyncio](https://img.shields.io/badge/-Asyncio-3776AB?style=for-the-badge&logo=python)
+![Aiogram](https://img.shields.io/badge/-Aiogram%203.x-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)
 
-- **Python 3.x**
-- **Django + Django REST Framework**
-- **FastAPI**
-- **SQLAlchemy + PostgreSQL**
-- **MongoDB**
+#### 🗄️ Data & Messaging
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FF5C00?style=for-the-badge&logo=python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
+![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white&style=for-the-badge)
 
-### 🔄 Async & Queue Systems
-
-- **Asyncio**
-- **Aiogram 3.x** (Telegram Bots)
-- **RabbitMQ + Celery**
-
-### ⚙️ Other Tools & Skills
-
-- **Golang** (in progress)
-- **LLMs (OpenAI, Groq, llama-index)**
-- **PyQt / PySide**
-- **Pandas, NumPy, Matplotlib**
+#### 🐹 Other
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 
 ---
 
-## 🎯 Interests
+### 🚀 Notable Projects
 
-- 🎮 Gaming & TV Shows
-- 📖 Reading non-fiction & tech books
-- 🎬 Video editing (Adobe Premiere Pro & After Effects)
-- 💡 Self-improvement & productivity
-
----
-
-## 📫 Contact Me
-
-- 📨 Email: [denercoder@mail.ru](mailto:denercoder@mail.ru)  
-- 💬 Telegram: [@dpikaev](https://t.me/dpikaev)
+- 💰 **Crypto Wallet UI**: Desktop wallet for a custom coin built with PyQT.
+- 📚 **Learning Platform**: Full-stack educational service with user tracking and quiz systems.
+- 🤖 **AI Agent Manager**: Backend system to manage and dispatch LLM agents.
+- 🥊 **Boxing Judgement Bot**: Telegram bot for automated boxing round scoring by multiple judges.
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dpikaev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dpikaev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpikaev&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpikaev&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Fun Fact
+### ☕ Let's Connect
 
-I love merging creativity with logic — whether it's editing a cinematic cut in Adobe Premiere or designing AI-powered systems with Python 🧩
+If you'd like to collaborate or just have a good conversation, feel free to contact me via [Telegram](https://t.me/dpikaev) or [Email](mailto:denercoder@mail.ru).
