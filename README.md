@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 2+ years in commercial backend development
+- 💼 3+ years in commercial backend development
 - 📚 3+ years teaching programming and backend architecture
 - 🔬 Passionate about building smart systems and working with AI
 - 🎥 Also enjoy working in **Adobe Premiere Pro** & **After Effects**
